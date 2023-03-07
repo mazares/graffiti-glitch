@@ -140,10 +140,6 @@ for (let i in Object.keys(contentsObj)) {
       fetch(Object.values(contentsObj)[i])
         .then((response) => response.json())
         .then((data) => {
-          //   document
-          //     .querySelector(`.btn-${Object.keys(contentsObj)[i]}`)
-          //     .addEventListener(`click`, speak(Object.keys(contentsObj)[i]));
-
           let randomEntry = Math.floor(
             Math.random() * Object.keys(data).length
           );
@@ -156,28 +152,6 @@ for (let i in Object.keys(contentsObj)) {
 
           definitionEl.textContent = randomDescription;
 
-          //   /////////////
-
-          //   function speak(text) {
-          //     if ("speechSynthesis" in window) {
-          //       const synthesis = window.speechSynthesis;
-
-          //       let speakText = new SpeechSynthesisUtterance(text);
-
-          //       synthesis.speak(speakText);
-          //     } else {
-          //       console.log("Speech synthesis not supported by this browser.");
-          //     }
-          //   }
-          //   speak(`yes`);
-          //   //   ////////////
-
-          //   speak(randomActiveWord);
-
-          //   speak(randomDescription);
-
-          ///////NEW TRY//////////
-
           function playText(text) {
             const utterance = new SpeechSynthesisUtterance(text);
             speechSynthesis.speak(utterance);
@@ -188,7 +162,7 @@ for (let i in Object.keys(contentsObj)) {
             playText(a);
           }
           compySays(randomActiveWord);
-          // compySays(randomDescription);
+          compySays(randomDescription);
         })
         .catch((error) => {
           console.log(error);
