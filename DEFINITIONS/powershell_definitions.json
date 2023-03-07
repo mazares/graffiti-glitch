@@ -1,0 +1,81 @@
+[{
+        "name": "Cmdlet",
+        "description": "A lightweight command used in PowerShell that performs a specific task. Cmdlets are used to interact with various components of the Windows operating system and other applications."
+    },
+    {
+        "name": "Module",
+        "description": "A collection of related cmdlets, scripts, and other resources that can be loaded into a PowerShell session. Modules provide a way to organize and reuse code in PowerShell."
+    },
+    {
+        "name": "Pipeline",
+        "description": "A feature in PowerShell that allows the output of one cmdlet to be passed as input to another cmdlet. Pipelines can be used to perform complex operations and manipulate data in PowerShell."
+    },
+    {
+        "name": "Variable",
+        "description": "A container used to store data in PowerShell. Variables can hold a wide range of data types, including strings, numbers, arrays, and objects."
+    },
+    {
+        "name": "Function",
+        "description": "A block of code in PowerShell that performs a specific task and can be called multiple times from other parts of a script or module. Functions provide a way to organize and reuse code in PowerShell."
+    },
+    {
+        "name": "Scriptblock",
+        "description": "A block of PowerShell code that can be stored as a variable, passed as a parameter to a cmdlet or function, or executed as a standalone script."
+    },
+    {
+        "name": "PowerShell Core",
+        "description": "An open-source version of PowerShell that runs on Windows, Linux, and macOS. PowerShell Core includes many of the same features and cmdlets as Windows PowerShell, but is designed to be cross-platform."
+    },
+    {
+        "name": "Remoting",
+        "description": "A feature in PowerShell that allows commands to be run on remote computers. PowerShell remoting uses the Windows Remote Management (WinRM) protocol to establish a connection between the local and remote computers."
+    },
+    {
+        "name": "ISE",
+        "description": "The PowerShell Integrated Scripting Environment, a graphical user interface (GUI) for PowerShell that includes features like syntax highlighting, debugging, and IntelliSense."
+    },
+    {
+        "name": "Profile",
+        "description": "A script that runs automatically when a PowerShell session starts. Profiles can be used to customize the behavior of PowerShell and load modules and functions automatically."
+    },
+    {
+        "name": "PowerShell",
+        "description": "A command-line shell and scripting language designed for system administrators and IT professionals to automate tasks and manage systems running on Windows."
+    },
+    {
+        "name": "Cmdlet",
+        "description": "A lightweight command in PowerShell that performs a specific task, such as retrieving data, changing a setting, or starting a service."
+    },
+    {
+        "name": "Module",
+        "description": "A package of cmdlets and other resources that can be imported into PowerShell to extend its functionality. Modules can be created by Microsoft, third-party developers, or users themselves."
+    },
+    {
+        "name": "Variable",
+        "description": "A named container that holds a value or object in memory for use in PowerShell scripts and commands. Variables can be assigned, read, and modified as needed."
+    },
+    {
+        "name": "Function",
+        "description": "A reusable block of code that performs a specific task in PowerShell. Functions can take parameters, return values, and be called from other scripts and commands."
+    },
+    {
+        "name": "Pipeline",
+        "description": "A series of cmdlets in PowerShell that are connected by a data stream, allowing the output of one cmdlet to be used as the input for another. Pipelines can be used to chain together complex commands and automate repetitive tasks."
+    },
+    {
+        "name": "Script",
+        "description": "A text file containing a series of PowerShell commands and statements that can be executed together as a single unit. Scripts can be used to automate tasks, configure systems, and perform other administrative functions."
+    },
+    {
+        "name": "ISE",
+        "description": "The PowerShell Integrated Scripting Environment, a graphical user interface (GUI) tool that provides a rich editor, debugger, and other features for creating and testing PowerShell scripts."
+    },
+    {
+        "name": "Remoting",
+        "description": "A feature of PowerShell that allows administrators to run commands and scripts on remote computers and manage them from a single console. Remoting requires network connectivity and appropriate permissions on both the local and remote computers."
+    },
+    {
+        "name": "Provider",
+        "description": "A PowerShell extension that allows access to data stores, such as the file system, registry, or Active Directory, as if they were a file system. Providers can be used to navigate and manipulate data in these stores using common commands and syntax."
+    }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Array",
+    "description": "An ordered collection of values, identified by an index number."
+  },
+  {
+    "name": "Arrow Function",
+    "description": "A shorthand syntax for defining a function expression that preserves the lexical value of `this`."
+  },
+  {
+    "name": "Async/Await",
+    "description": "A syntax for writing asynchronous code that looks like synchronous code by using the `async` and `await` keywords."
+  },
+  {
+    "name": "Callback",
+    "description": "A function that is passed as an argument to another function and is executed when a certain event occurs."
+  },
+  {
+    "name": "Class",
+    "description": "A blueprint for creating objects that share the same properties and methods."
+  },
+  {
+    "name": "Closure",
+    "description": "A function that has access to variables in its outer (enclosing) scope, even after the outer function has returned."
+  },
+  {
+    "name": "Constructor",
+    "description": "A function used to create new instances of an object."
+  },
+  {
+    "name": "Data Type",
+    "description": "A classification of the type of data that a value can hold, such as number, string, boolean, null, undefined, symbol, or object."
+  },
+  {
+    "name": "Destructuring",
+    "description": "A syntax for extracting values from arrays or objects into variables with a shorter syntax."
+  },
+  {
+    "name": "Event",
+    "description": "An action or occurrence that happens in the browser, such as a button click or page load."
+  },
+  {
+    "name": "Function",
+    "description": "A block of code that performs a specific task and can be called from other code."
+  },
+  {
+    "name": "Higher-Order Function",
+    "description": "A function that takes one or more functions as arguments or returns a function as its result."
+  },
+  {
+    "name": "Hoisting",
+    "description": "The behavior of moving variable and function declarations to the top of their respective scopes during compilation."
+  },
+  {
+    "name": "JSON",
+    "description": "A lightweight data interchange format that is easy for humans to read and write and easy for machines to parse and generate."
+  },
+  {
+    "name": "Lexical Scope",
+    "description": "The scope that is determined by where a function is defined, not where it is called."
+  },
+  {
+    "name": "Map",
+    "description": "A collection of key-value pairs, where each key and value can be any type."
+  },
+  {
+    "name": "Method",
+    "description": "A function that is a property of an object."
+  },
+  {
+    "name": "Module",
+    "description": "A self-contained unit of code that can be imported and exported in other modules."
+  },
+  {
+    "name": "Object",
+    "description": "A collection of key-value pairs, where each key is a string and each value can be any type."
+  },
+  {
+    "name": "Promise",
+    "description": "An object that represents a value that may not be available yet, but will be at some point in the future, or an error that occurred when trying to get that value."
+  },
+  {
+    "name": "Prototype",
+    "description": "An object that is used as a template for creating new objects."
+  },
+  {
+    "name": "Variable",
+    "description": "A container for storing a value, identified by a name."
+  },
+  {
+    "name": "Method",
+    "description": "A function that is a property of an object."
+  },
+  {
+    "name": "Property",
+    "description": "A value that is a property of an object."
+  }
+]

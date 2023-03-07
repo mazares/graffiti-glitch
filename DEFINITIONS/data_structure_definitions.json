@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Array",
+    "description": "A collection of elements, each identified by an index or a key. Arrays are a basic data structure used to store and manipulate data in many programming languages."
+  },
+  {
+    "name": "Linked List",
+    "description": "A data structure that consists of a sequence of nodes, where each node contains a value and a pointer to the next node in the sequence. Linked lists are commonly used to implement dynamic data structures and algorithms that require efficient insertions and deletions."
+  },
+  {
+    "name": "Stack",
+    "description": "A data structure that follows the Last-In-First-Out (LIFO) principle, where elements are inserted and removed from the same end. Stacks are commonly used to implement recursive algorithms, expression evaluation, and memory management."
+  },
+  {
+    "name": "Queue",
+    "description": "A data structure that follows the First-In-First-Out (FIFO) principle, where elements are inserted at the back and removed from the front. Queues are commonly used to implement algorithms that involve processing items in a specific order, such as BFS and job scheduling."
+  },
+  {
+    "name": "Tree",
+    "description": "A data structure that consists of a set of nodes, where each node has a value and zero or more child nodes. Trees are commonly used to represent hierarchical structures, such as file systems and organizational charts."
+  },
+  {
+    "name": "Graph",
+    "description": "A data structure that consists of a set of vertices (or nodes) and a set of edges that connect them. Graphs are commonly used to represent complex systems, such as social networks, transportation networks, and circuit diagrams."
+  },
+  {
+    "name": "Heap",
+    "description": "A data structure that is a complete binary tree and satisfies the heap property, which means that the parent node is either greater than or equal to (max heap) or less than or equal to (min heap) its children. Heaps are commonly used to implement priority queues and sorting algorithms."
+  },
+  {
+    "name": "Hash Table",
+    "description": "A data structure that maps keys to values using a hash function. Hash tables provide constant-time (O(1)) access to elements and are commonly used to implement associative arrays, sets, and caches."
+  },
+  {
+    "name": "Trie",
+    "description": "A data structure that stores a set of strings in a tree-like structure, where each node represents a prefix of one or more strings. Tries are commonly used to implement dictionaries, spell checkers, and search engines."
+  },
+  {
+    "name": "Binary Tree",
+    "description": "A tree data structure where each node has at most two child nodes, referred to as the left child and the right child. Binary trees can be used to implement binary search trees, heaps, and other data structures."
+  }
+]

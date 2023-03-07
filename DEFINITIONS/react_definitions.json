@@ -1,0 +1,125 @@
+[{
+        "name": "Component",
+        "description": "A reusable piece of UI that can be composed of other components."
+    },
+    {
+        "name": "JSX",
+        "description": "A syntax extension for JavaScript that allows HTML-like code to be written in a JavaScript file."
+    },
+    {
+        "name": "Props",
+        "description": "Short for 'properties', a way to pass data into a component from its parent component."
+    },
+    {
+        "name": "State",
+        "description": "An object that represents the current state of a component, and can be updated using the `setState` method."
+    },
+    {
+        "name": "Virtual DOM",
+        "description": "A lightweight representation of the actual DOM that React uses to keep track of changes, and only updates the parts of the actual DOM that have changed."
+    },
+    {
+        "name": "React Router",
+        "description": "A library for managing client-side routing in React applications."
+    },
+    {
+        "name": "Lifecycle Method",
+        "description": "A method that gets called at certain points in a component's lifecycle, such as when it is mounted, updated, or unmounted."
+    },
+    {
+        "name": "Context",
+        "description": "A way to share data between components without passing it explicitly through props."
+    },
+    {
+        "name": "Higher-Order Component",
+        "description": "A function that takes a component as its argument and returns a new component with additional functionality."
+    },
+    {
+        "name": "Redux",
+        "description": "A library for managing application state in React applications."
+    },
+    {
+        "name": "Hooks",
+        "description": "A new feature in React 16.8 that allows functional components to use state and other React features without writing a class."
+    },
+    {
+        "name": "Server-side Rendering",
+        "description": "A technique for rendering React components on the server, and sending HTML to the client instead of JavaScript."
+    },
+    {
+        "name": "Conditional Rendering",
+        "description": "A technique for rendering different content based on the state of a component, such as showing a loading indicator while data is being fetched."
+    },
+    {
+        "name": "Key",
+        "description": "A special attribute that needs to be added to a list of items rendered by a component to help React identify which items have changed."
+    },
+    {
+        "name": "Ref",
+        "description": "A way to access the underlying DOM node of a React component."
+    },
+    {
+        "name": "Error Boundary",
+        "description": "A component that can catch errors that occur during rendering, and display a fallback UI instead of crashing the whole application."
+    },
+    {
+        "name": "JSX",
+        "description": "A syntax extension for JavaScript that allows you to write HTML-like code in your JavaScript files."
+    },
+    {
+        "name": "Component",
+        "description": "A reusable piece of UI that can be composed with other components to build more complex UIs."
+    },
+    {
+        "name": "Props",
+        "description": "Short for 'properties', props are inputs that are passed into a component as an object and used to configure its behavior."
+    },
+    {
+        "name": "State",
+        "description": "A JavaScript object that represents the current state of a component and can be updated to trigger a re-render of the component."
+    },
+    {
+        "name": "Virtual DOM",
+        "description": "A lightweight representation of the actual DOM that React uses to efficiently update the UI."
+    },
+    {
+        "name": "Lifecycle Method",
+        "description": "A method that is called at a specific point in a component's lifecycle, such as when it is created, updated, or destroyed."
+    },
+    {
+        "name": "Event",
+        "description": "An action or occurrence that happens in the browser, such as a button click or page load."
+    },
+    {
+        "name": "Hook",
+        "description": "A function that allows you to use React features in function components, such as state and lifecycle methods."
+    },
+    {
+        "name": "Context",
+        "description": "A way to pass data down the component tree without having to pass props manually at every level."
+    },
+    {
+        "name": "Ref",
+        "description": "A way to access the underlying DOM node or React element that is created by a component."
+    },
+    {
+        "name": "Key",
+        "description": "A special attribute that helps React identify which items have changed, been added, or been removed from a list."
+    },
+    {
+        "name": "Fragment",
+        "description": "A way to group a list of children without adding an extra node to the DOM."
+    },
+    {
+        "name": "Error Boundary",
+        "description": "A higher-order component that catches JavaScript errors anywhere in its child component tree and displays a fallback UI instead of crashing the whole app."
+    },
+    {
+        "name": "Portals",
+        "description": "A way to render a child component in a different part of the DOM, such as outside the parent component's hierarchy."
+    },
+    {
+        "name": "Lazy Loading",
+        "description": "A technique for loading components or other assets asynchronously, only when they are actually needed, to improve performance and reduce initial load time."
+    }
+]

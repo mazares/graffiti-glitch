@@ -1,0 +1,41 @@
+[{
+        "name": "IP Address",
+        "description": "A unique identifier assigned to each device connected to a network, used to identify and communicate with other devices on the network."
+    },
+    {
+        "name": "DNS",
+        "description": "A system that translates human-readable domain names (like www.example.com) into IP addresses that computers can understand."
+    },
+    {
+        "name": "Router",
+        "description": "A device that connects multiple networks together and routes data packets between them. Routers are used to manage traffic on the internet and within local networks."
+    },
+    {
+        "name": "Firewall",
+        "description": "A security system that monitors and controls incoming and outgoing network traffic based on predefined security rules. Firewalls can be hardware devices or software applications."
+    },
+    {
+        "name": "Protocol",
+        "description": "A set of rules and procedures used to govern communication between devices on a network. Common protocols include TCP/IP, HTTP, and FTP."
+    },
+    {
+        "name": "Switch",
+        "description": "A device that connects multiple devices on a local network and forwards data packets between them. Switches are used to manage traffic within a network and improve network performance."
+    },
+    {
+        "name": "Gateway",
+        "description": "A device that connects a local network to another network, typically the internet. Gateways are used to manage traffic between networks and provide access to external resources."
+    },
+    {
+        "name": "Bandwidth",
+        "description": "The amount of data that can be transmitted over a network in a given amount of time. Bandwidth is typically measured in bits per second (bps) or bytes per second (Bps)."
+    },
+    {
+        "name": "Latency",
+        "description": "The amount of time it takes for a data packet to travel from one device to another on a network. Latency is typically measured in milliseconds (ms) and can affect the speed and responsiveness of network applications."
+    },
+    {
+        "name": "TCP/IP",
+        "description": "A suite of protocols used to govern communication on the internet and many other networks. TCP/IP includes protocols for data transmission, addressing, and routing."
+    }
+]

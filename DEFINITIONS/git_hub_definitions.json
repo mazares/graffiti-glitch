@@ -1,0 +1,41 @@
+[{
+        "name": "GitHub",
+        "description": "A web-based platform for version control and collaboration that provides hosting for Git repositories, as well as tools for issue tracking, code review, and project management."
+    },
+    {
+        "name": "Repository",
+        "description": "A central location where GitHub stores all the files and history for a project. Repositories can be public or private, and can be owned by individuals or organizations."
+    },
+    {
+        "name": "Pull Request",
+        "description": "A request to merge changes made in a branch into another branch, typically used to propose changes to the main codebase and to initiate a code review process. GitHub provides a web-based interface for creating and reviewing pull requests."
+    },
+    {
+        "name": "Fork",
+        "description": "A copy of a repository that allows developers to freely experiment with changes without affecting the original codebase. Forking a repository on GitHub creates a new copy of the repository in the user's account that can be modified and pushed back to the original repository as a pull request."
+    },
+    {
+        "name": "Issues",
+        "description": "A feature of GitHub that allows users to track and manage bugs, feature requests, and other tasks related to a project. Issues can be assigned to specific users, labeled, and commented on to facilitate communication and collaboration."
+    },
+    {
+        "name": "Wiki",
+        "description": "A feature of GitHub that allows users to create and edit documentation pages for a project. The wiki can be used to provide information about the project, its development process, and how to contribute to it."
+    },
+    {
+        "name": "Gists",
+        "description": "A feature of GitHub that allows users to share code snippets and small scripts with others. Gists can be public or private, and can be easily embedded in other websites or shared via social media."
+    },
+    {
+        "name": "Organizations",
+        "description": "A way for groups of users to collaborate on GitHub projects. Organizations can be created to manage multiple repositories, teams, and permissions for different users."
+    },
+    {
+        "name": "GitHub Pages",
+        "description": "A feature of GitHub that allows users to host websites and web applications directly from their GitHub repository. GitHub Pages supports static websites and dynamic applications built with Jekyll, Node.js, and other tools."
+    },
+    {
+        "name": "Actions",
+        "description": "A feature of GitHub that allows users to automate workflows and build processes directly from their repository. Actions can be used to run tests, deploy code, and perform other tasks automatically based on triggers such as pull requests or code pushes."
+    }
+]

@@ -1,0 +1,41 @@
+[{
+        "name": "Git",
+        "description": "A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
+    },
+    {
+        "name": "Repository",
+        "description": "A central location where Git stores all the files and history for a project."
+    },
+    {
+        "name": "Commit",
+        "description": "A snapshot of the changes made to a project at a particular point in time. Each commit has a unique ID and a message describing the changes made."
+    },
+    {
+        "name": "Branch",
+        "description": "A parallel version of a repository that allows developers to work on different features or versions of a project simultaneously without affecting the main codebase."
+    },
+    {
+        "name": "Merge",
+        "description": "The process of combining changes from one branch into another, typically used to incorporate new features or fixes from a development branch into the main branch."
+    },
+    {
+        "name": "Pull Request",
+        "description": "A request to merge changes made in a branch into another branch, typically used to propose changes to the main codebase and to initiate a code review process."
+    },
+    {
+        "name": "Push",
+        "description": "The process of sending commits from a local repository to a remote repository, typically used to share changes with other developers working on the same project."
+    },
+    {
+        "name": "Clone",
+        "description": "The process of creating a local copy of a remote repository, typically used to begin working on a project or to make a backup of an existing repository."
+    },
+    {
+        "name": "Fork",
+        "description": "A copy of a repository that allows developers to freely experiment with changes without affecting the original codebase."
+    },
+    {
+        "name": "Tag",
+        "description": "A label assigned to a specific commit to mark a significant point in the project's history, typically used to denote a release or a major change."
+    }
+]

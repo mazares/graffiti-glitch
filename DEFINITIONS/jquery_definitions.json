@@ -1,0 +1,49 @@
+[{
+        "name": "$",
+        "description": "The alias for the jQuery function, which is used to create a jQuery object that wraps one or more DOM elements."
+    },
+    {
+        "name": "DOM",
+        "description": "The Document Object Model, which represents the HTML structure of a web page as a hierarchical tree of nodes, each of which can be manipulated with JavaScript."
+    },
+    {
+        "name": "Selector",
+        "description": "A string or function that specifies a set of elements to be selected from the DOM, using CSS syntax or other methods."
+    },
+    {
+        "name": "Method Chaining",
+        "description": "A programming pattern in which multiple methods are called on the same object in a single statement, allowing for more concise and readable code."
+    },
+    {
+        "name": "Event",
+        "description": "An action that occurs in response to user interaction or other triggers, such as clicking a button or scrolling the page."
+    },
+    {
+        "name": "Callback",
+        "description": "A function that is passed as an argument to another function and is called when a certain event or condition occurs, allowing for asynchronous and event-driven programming."
+    },
+    {
+        "name": "Ajax",
+        "description": "Asynchronous JavaScript and XML, a set of web technologies that allows for data to be retrieved from a server without refreshing the entire web page."
+    },
+    {
+        "name": "JSON",
+        "description": "JavaScript Object Notation, a lightweight data format that is easy for humans to read and write, and easy for machines to parse and generate."
+    },
+    {
+        "name": "Animation",
+        "description": "The process of changing the appearance or position of an element over time, often used to create visual effects or improve user experience."
+    },
+    {
+        "name": "Plugin",
+        "description": "An extension or module that adds new functionality to jQuery, often created by third-party developers and shared through the jQuery Plugin Registry."
+    },
+    {
+        "name": "Deferred",
+        "description": "An object that represents a value that may not be available yet, and allows you to attach callback functions that will be called when the value is resolved or rejected."
+    },
+    {
+        "name": "Promise",
+        "description": "An object that represents a value that may not be available yet, but will be resolved with a value or rejected with an error at some point in the future."
+    }
+]

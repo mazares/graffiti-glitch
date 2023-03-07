@@ -1,0 +1,49 @@
+[{
+        "name": "Redux",
+        "description": "A predictable state container for JavaScript apps that helps manage the state of an application in a more organized and maintainable way."
+    },
+    {
+        "name": "Store",
+        "description": "A single, centralized place that holds the entire state tree of an application, and serves as the source of truth for the application state."
+    },
+    {
+        "name": "Action",
+        "description": "A plain JavaScript object that represents a change or an update in the application state, typically triggered by a user interaction or a network request."
+    },
+    {
+        "name": "Reducer",
+        "description": "A pure function that takes the current state and an action, and returns a new state based on the action type and payload."
+    },
+    {
+        "name": "Dispatch",
+        "description": "A function that sends an action to the store, triggering a state change and possibly causing the view to update."
+    },
+    {
+        "name": "Selector",
+        "description": "A function that takes the current state and returns a derived value, based on the current state of the application."
+    },
+    {
+        "name": "Middleware",
+        "description": "A function that sits between the action dispatch and the reducer, allowing for side effects, asynchronous actions, and other custom behavior to be applied to the store."
+    },
+    {
+        "name": "Provider",
+        "description": "A component provided by the React-Redux library that makes the Redux store available to the rest of the application."
+    },
+    {
+        "name": "Action Creator",
+        "description": "A function that creates and returns an action object, encapsulating the action type and payload, and making it easier to dispatch actions in the application code."
+    },
+    {
+        "name": "Immutable Data",
+        "description": "Data that cannot be modified once it is created, and instead a new copy of the data is created when changes are made, making it easier to track changes in the application state."
+    },
+    {
+        "name": "DevTools",
+        "description": "A set of tools and extensions for debugging and inspecting Redux applications, including a time-traveling debugger, state diffing, and performance monitoring."
+    },
+    {
+        "name": "Connect",
+        "description": "A higher-order function that creates a new component that is connected to the store, receiving the state and dispatch methods as props and triggering updates on state changes."
+    }
+]

@@ -1,0 +1,41 @@
+[{
+        "name": "Node.js",
+        "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine that allows developers to run JavaScript on the server-side."
+    },
+    {
+        "name": "NPM",
+        "description": "Short for Node Package Manager, NPM is a package manager for Node.js that allows developers to easily install and manage dependencies for their projects."
+    },
+    {
+        "name": "Express",
+        "description": "A popular web framework for Node.js that provides a robust set of features for building web applications, such as routing, middleware, and template rendering."
+    },
+    {
+        "name": "Callback",
+        "description": "A function that is passed as an argument to another function and is called when the main function has completed its task."
+    },
+    {
+        "name": "Promise",
+        "description": "An object that represents the eventual completion or failure of an asynchronous operation and allows developers to handle asynchronous code in a more synchronous way."
+    },
+    {
+        "name": "Async/Await",
+        "description": "A language feature in JavaScript that allows developers to write asynchronous code that looks and behaves like synchronous code, making it easier to read and write."
+    },
+    {
+        "name": "Buffer",
+        "description": "A class in Node.js that provides a way to handle binary data, such as reading and writing files and sockets."
+    },
+    {
+        "name": "Cluster",
+        "description": "A module in Node.js that allows developers to create child processes to take advantage of multi-core systems and improve the performance of their applications."
+    },
+    {
+        "name": "EventEmitter",
+        "description": "A class in Node.js that provides a way to handle events in a Node.js application, allowing developers to create custom events and react to them as needed."
+    },
+    {
+        "name": "HTTP",
+        "description": "A module in Node.js that provides a way to handle HTTP requests and responses, allowing developers to build web servers and clients."
+    }
+]

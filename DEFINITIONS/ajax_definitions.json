@@ -1,0 +1,49 @@
+[{
+        "name": "AJAX",
+        "description": "Asynchronous JavaScript and XML is a set of web development techniques that allow web applications to send and receive data asynchronously from a server without requiring a full page reload."
+    },
+    {
+        "name": "XMLHttpRequest",
+        "description": "A JavaScript API that provides a way to send HTTP or HTTPS requests to a server and receive responses, which can be used for implementing AJAX."
+    },
+    {
+        "name": "HTTP",
+        "description": "Hypertext Transfer Protocol is the foundation of data communication on the World Wide Web, used for requesting and delivering web pages and other online resources."
+    },
+    {
+        "name": "GET",
+        "description": "A HTTP method used to request a resource from a server, typically returning data in the response body."
+    },
+    {
+        "name": "POST",
+        "description": "A HTTP method used to submit data to be processed by a server, typically sending data in the request body."
+    },
+    {
+        "name": "PUT",
+        "description": "A HTTP method used to update an existing resource on a server, typically sending data in the request body."
+    },
+    {
+        "name": "DELETE",
+        "description": "A HTTP method used to delete an existing resource on a server."
+    },
+    {
+        "name": "Response",
+        "description": "The data received from a server in response to a request, which can include headers, a status code, and a response body."
+    },
+    {
+        "name": "Status Code",
+        "description": "A three-digit number included in a HTTP response that indicates the status of the requested resource, such as 200 (OK), 404 (Not Found), or 500 (Internal Server Error)."
+    },
+    {
+        "name": "Callback",
+        "description": "A function passed as an argument to another function, which is called when a specific event occurs or when a certain condition is met."
+    },
+    {
+        "name": "Promise",
+        "description": "A JavaScript object that represents the eventual completion (or failure) of an asynchronous operation and can be used for handling asynchronous requests in a more structured way than callbacks."
+    },
+    {
+        "name": "Async/Await",
+        "description": "A modern JavaScript syntax for working with promises that allows you to write asynchronous code that looks and behaves like synchronous code."
+    }
+]

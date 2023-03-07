@@ -1,0 +1,121 @@
+[{
+        "name": "Algorithm",
+        "description": "A step-by-step procedure for solving a problem or achieving a goal. Algorithms can be expressed in natural language, pseudocode, or programming code."
+    },
+    {
+        "name": "Data structure",
+        "description": "A way of organizing and storing data in a computer program. Common data structures used in algorithms include arrays, linked lists, stacks, queues, and trees."
+    },
+    {
+        "name": "Sorting algorithm",
+        "description": "An algorithm that arranges a collection of items in a particular order. Common sorting algorithms include bubble sort, selection sort, insertion sort, merge sort, quicksort, and heapsort."
+    },
+    {
+        "name": "Search algorithm",
+        "description": "An algorithm that finds the location of a specific item in a collection of items. Common search algorithms include linear search, binary search, and depth-first search."
+    },
+    {
+        "name": "Recursion",
+        "description": "A technique in which a function calls itself to solve a problem. Recursion is often used in algorithms that involve searching or traversing tree-like structures."
+    },
+    {
+        "name": "Dynamic programming",
+        "description": "A technique for solving complex problems by breaking them down into smaller subproblems and solving each subproblem only once. Dynamic programming is often used in optimization problems and can be more efficient than other approaches."
+    },
+    {
+        "name": "Greedy algorithm",
+        "description": "An algorithm that makes the locally optimal choice at each step in the hope of finding a global optimum. Greedy algorithms are often used in optimization problems and can be simple and efficient, but may not always find the optimal solution."
+    },
+    {
+        "name": "Backtracking",
+        "description": "A technique for exploring all possible solutions to a problem by trying out different choices and undoing them if they lead to a dead end. Backtracking is often used in problems that involve searching for a path or sequence of steps."
+    },
+    {
+        "name": "Graph algorithm",
+        "description": "An algorithm that operates on a graph, which is a collection of nodes (vertices) and edges that connect them. Common graph algorithms include depth-first search, breadth-first search, shortest path algorithms, and minimum spanning tree algorithms."
+    },
+    {
+        "name": "Big O notation",
+        "description": "A way of describing the performance or complexity of an algorithm as a function of the size of the input. Big O notation provides an upper bound on the growth rate of an algorithm and is used to compare the efficiency of different algorithms."
+    },
+    {
+        "name": "Algorithm",
+        "description": "A set of instructions or rules for solving a problem or performing a task. Algorithms can be expressed in various ways, including natural language, pseudocode, flowcharts, and computer programs."
+    },
+    {
+        "name": "Data structure",
+        "description": "A way of organizing and storing data in a computer program or system. Data structures can be classified as linear or non-linear, and include arrays, linked lists, stacks, queues, trees, and graphs."
+    },
+    {
+        "name": "Sorting",
+        "description": "The process of arranging items in a list or collection in a specific order. Sorting algorithms are used to arrange data in ascending or descending order based on some criterion, such as numerical value or alphabetical order."
+    },
+    {
+        "name": "Searching",
+        "description": "The process of finding a specific item or value in a list or collection. Searching algorithms are used to locate a specific item in a collection, and can be classified as sequential or binary searches."
+    },
+    {
+        "name": "Recursion",
+        "description": "A programming technique that involves a function calling itself repeatedly until a base case is reached. Recursion is used to solve problems that can be divided into smaller subproblems, and can be more concise and elegant than iterative solutions."
+    },
+    {
+        "name": "Dynamic programming",
+        "description": "A method for solving complex problems by breaking them down into smaller subproblems and solving each subproblem only once. Dynamic programming is used to reduce the computational complexity of problems, and is often used in optimization and graph algorithms."
+    },
+    {
+        "name": "Greedy algorithm",
+        "description": "An algorithmic paradigm that follows the problem-solving heuristic of making the locally optimal choice at each stage with the hope of finding a global optimum. Greedy algorithms are used to solve optimization problems, and can be efficient and easy to implement, but may not always produce the optimal solution."
+    },
+    {
+        "name": "Divide and conquer",
+        "description": "A problem-solving technique that involves breaking a problem down into smaller subproblems, solving each subproblem independently, and combining the solutions to solve the original problem. Divide and conquer is used to solve a wide range of problems, including sorting, searching, and matrix multiplication."
+    },
+    {
+        "name": "Backtracking",
+        "description": "A general algorithmic technique that involves exploring all possible solutions to a problem by incrementally building a solution and undoing some of the steps when they are found to be incorrect. Backtracking is used to solve problems that require making a sequence of choices, and can be more efficient than brute-force methods."
+    },
+    {
+        "name": "Big O notation",
+        "description": "A mathematical notation used to describe the complexity of an algorithm or the growth rate of a function. Big O notation is used to analyze the time and space complexity of algorithms, and is used to compare the efficiency of different algorithms and identify the best algorithm for a given problem."
+    },
+    {
+        "name": "Algorithm",
+        "description": "A set of instructions or rules for solving a problem or performing a task. Algorithms can be expressed in various ways, including natural language, pseudocode, flowcharts, and computer programs."
+    },
+    {
+        "name": "Data structure",
+        "description": "A way of organizing and storing data in a computer program or system. Data structures can be classified as linear or non-linear, and include arrays, linked lists, stacks, queues, trees, and graphs."
+    },
+    {
+        "name": "Sorting",
+        "description": "The process of arranging items in a list or collection in a specific order. Sorting algorithms are used to arrange data in ascending or descending order based on some criterion, such as numerical value or alphabetical order."
+    },
+    {
+        "name": "Searching",
+        "description": "The process of finding a specific item or value in a list or collection. Searching algorithms are used to locate a specific item in a collection, and can be classified as sequential or binary searches."
+    },
+    {
+        "name": "Recursion",
+        "description": "A programming technique that involves a function calling itself repeatedly until a base case is reached. Recursion is used to solve problems that can be divided into smaller subproblems, and can be more concise and elegant than iterative solutions."
+    },
+    {
+        "name": "Dynamic programming",
+        "description": "A method for solving complex problems by breaking them down into smaller subproblems and solving each subproblem only once. Dynamic programming is used to reduce the computational complexity of problems, and is often used in optimization and graph algorithms."
+    },
+    {
+        "name": "Greedy algorithm",
+        "description": "An algorithmic paradigm that follows the problem-solving heuristic of making the locally optimal choice at each stage with the hope of finding a global optimum. Greedy algorithms are used to solve optimization problems, and can be efficient and easy to implement, but may not always produce the optimal solution."
+    },
+    {
+        "name": "Divide and conquer",
+        "description": "A problem-solving technique that involves breaking a problem down into smaller subproblems, solving each subproblem independently, and combining the solutions to solve the original problem. Divide and conquer is used to solve a wide range of problems, including sorting, searching, and matrix multiplication."
+    },
+    {
+        "name": "Backtracking",
+        "description": "A general algorithmic technique that involves exploring all possible solutions to a problem by incrementally building a solution and undoing some of the steps when they are found to be incorrect. Backtracking is used to solve problems that require making a sequence of choices, and can be more efficient than brute-force methods."
+    },
+    {
+        "name": "Big O notation",
+        "description": "A mathematical notation used to describe the complexity of an algorithm or the growth rate of a function. Big O notation is used to analyze the time and space complexity of algorithms, and is used to compare the efficiency of different algorithms and identify the best algorithm for a given problem."
+    }
+]
